@@ -1,3 +1,9 @@
+# for eiji_to_mdict
+*.txt
+*.TXT
+*.mdx
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
