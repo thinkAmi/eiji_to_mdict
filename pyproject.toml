@@ -1,0 +1,11 @@
+[project]
+name = "eiji_to_mdict"
+version = "0.1"
+requires-python = ">=3.12"
+dependencies = [
+  "writemdict@git+https://github.com/thinkAmi/writemdict@feature/python_package",
+]
+
+
+[project.scripts]
+eiji_to_mdict = "eiji_to_mdict:main"
