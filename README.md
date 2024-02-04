@@ -80,3 +80,4 @@ $ source env/bin/activate
 
 # 関連ブログ
 
+- [Pythonを使って、BOOTHで販売している英辞郎のテキストデータをMDict化し、BOOX Leaf2 の辞書に登録してみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2024/02/04/185339)
